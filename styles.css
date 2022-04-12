@@ -91,7 +91,7 @@ body {
 }
 
 .icon-eth {
-  background: url("/img/icon-ethereum.svg") no-repeat;
+  background: url("img/icon-ethereum.svg") no-repeat;
   padding: 18px;
   position: absolute;
 }
@@ -103,7 +103,7 @@ body {
 }
 
 .icon-days {
-  background: url("/img/icon-clock.svg") no-repeat;
+  background: url("img/icon-clock.svg") no-repeat;
   padding: 14px;
   position: absolute;
 }
